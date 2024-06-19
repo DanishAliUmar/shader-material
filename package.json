@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:visionary-studio/three-boilerplate"
+    "url": ""
   },
   "dependencies": {
     "@babel/runtime": "^7.20.7",
